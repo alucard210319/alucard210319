@@ -19,6 +19,7 @@ Small demos for:
 - CI log analysis.
 - CSV cleanup automation.
 - Chrome table export workflows.
+- Deployment environment checks.
 
 ## Recent Focus
 
@@ -45,4 +46,3 @@ For each task, I aim to provide:
 - "My app does not deploy to Vercel, Render, Railway, or Netlify."
 - "I need a script to clean this CSV and remove duplicate rows."
 - "I need a small Chrome extension to export or copy data from a page."
-
