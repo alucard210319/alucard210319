@@ -21,6 +21,11 @@ Small demos for:
 - Chrome table export workflows.
 - Deployment environment checks.
 
+## Open-Source Contributions
+
+- [md-bridge #106](https://github.com/vinicq/md-bridge/pull/106): contributed a Lighthouse CI workflow and JavaScript budget checks for a FastAPI + React document converter.
+- [md-bridge #108](https://github.com/vinicq/md-bridge/pull/108): credited as an open-source contributor after the CI work was merged.
+
 ## Recent Focus
 
 I prefer small, scoped tasks that unblock real work:
