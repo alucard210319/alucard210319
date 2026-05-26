@@ -25,6 +25,7 @@ Small demos for:
 
 - [md-bridge #106](https://github.com/vinicq/md-bridge/pull/106): contributed a Lighthouse CI workflow and JavaScript budget checks for a FastAPI + React document converter.
 - [md-bridge #108](https://github.com/vinicq/md-bridge/pull/108): credited as an open-source contributor after the CI work was merged.
+- [aus-ref-clim-data-nci #18](https://github.com/aus-ref-clim-data-nci/aus-ref-clim-data-nci/pull/18): fixed a failing GitHub Actions deploy workflow by pinning a Python 3.8-compatible runner and updating workflow actions.
 
 ## Recent Focus
 
